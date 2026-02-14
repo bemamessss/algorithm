@@ -1,4 +1,4 @@
-public class Remove_Dupe {
+public class RemoveDupe {
     
     public int removeDuplicates(int[] nums) {
         // 비교하다가 다른애가 있으면 1번쨰 인덱스부터 값을 덮어씌우자. 어차피 0번째 인덱스는 사실상 고정.
