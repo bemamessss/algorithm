@@ -1,4 +1,4 @@
-package Day5.Pascals_Triangle;
+package day5.pascals_triangle;
 import java.util.*;
 
 public class PasCalsTriangle {

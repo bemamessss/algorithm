@@ -1,4 +1,4 @@
-package Day5.Plus_One;
+package day5.plus_one;
 
 public class PlusOne {
     public int[] plusOne(int[] digits) {
